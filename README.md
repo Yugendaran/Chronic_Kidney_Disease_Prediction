@@ -6,7 +6,9 @@ The project output screenshots are shown as follows:
 The presented output demonstrates the classification performance of two machine learning algorithms—Extra Trees and XGBoost—used for predicting Chronic Kidney Disease (CKD) based on clinical biomarkers. The classification reports provide insights into the models' precision, recall, F1-score, and accuracy metrics, evaluated on two classes: 0 (non-CKD) and 1 (CKD). These metrics are crucial for assessing the effectiveness of the models in distinguishing between CKD and non-CKD patients.
 
 ### Classification Report For Extra Tree and XGBoost :
-![image](https://github.com/user-attachments/assets/0a3ed996-2cd3-4d43-b821-1d3b131e685c)
+![image](https://github.com/user-attachments/assets/c2d8ad2c-f29f-44d8-a85d-bb00f661f3e8)
+
+
 
 
 ### Extra Trees:
@@ -19,8 +21,8 @@ The XGBoost classifier exhibits an accuracy of 98%, which is slightly lower than
 The confusion matrices for the Extra Trees and XGBoost classifiers illustrate their performance in distinguishing between Chronic Kidney Disease (CKD) and non-CKD cases. Each matrix contains the counts of correctly and incorrectly classified instances for two classes: "No CKD" and "CKD."
 
  
-### Confusion Matrix
-![image](https://github.com/user-attachments/assets/8a9b32e0-0edb-4715-8cad-f3b1b0fc1d58)
+### Confusion Matrix :
+![image](https://github.com/user-attachments/assets/8013fada-e413-45e1-b7be-32f2e6bf18de)
 
 ### Extra Trees Classifier:
 The confusion matrix for the Extra Trees model shows excellent predictive performance. Out of 72 actual "No CKD" cases, the model correctly identified 71 and misclassified only 1. For the "CKD" class, the model correctly classified 126 out of 128 cases and made 2 errors. These results highlight the model's ability to accurately predict both classes, with minimal misclassification, ensuring reliable predictions in a clinical setting.
@@ -32,14 +34,16 @@ The confusion matrix for the XGBoost model also demonstrates strong performance,
 The heatmap provides a comparative analysis of various machine learning models based on four key performance metrics: accuracy, precision, recall, and F1-score, for predicting Chronic Kidney Disease (CKD). 
  
 ### Overall comparsion of Machine Learning Models 
-![image](https://github.com/user-attachments/assets/c8bf4ab5-e3dc-4c7e-8d54-5e18768f3540)
+![image](https://github.com/user-attachments/assets/483da8da-708b-4485-b60b-ffcf9f79aba1)
+
 
 Among the models, Extra Trees outperforms others with near-perfect scores of 99% across all metrics, showcasing its exceptional ability to handle feature interactions and noisy data effectively. XGBoost and LightGBM also demonstrate strong performance, achieving accuracies of 98% and 97%, respectively, with balanced precision and recall, making them reliable alternatives for CKD prediction. Multi-Layer Perceptron (MLP) achieves a respectable 96% accuracy, while simpler models like KNN and Gaussian Naive Bayes lag behind with accuracies of 92% and 93%, respectively, indicating their limitations in capturing complex relationships in the dataset. Overall, the analysis highlights the superiority of ensemble learning methods, particularly Extra Trees, for early and accurate CKD prediction using clinical biomarkers.
   
 
 ## Integration of Machine Learning Models For Chronic Kidney Disease Prediction. 
 The integration of machine learning models for Chronic Kidney Disease (CKD) prediction involves leveraging diverse algorithms to enhance diagnostic accuracy, robustness, and reliability. CKD, being a progressive condition, requires early detection and precise evaluation based on clinical biomarkers such as blood pressure, serum creatinine, and proteinuria levels. By integrating machine learning models, we aim to process this complex and high-dimensional data efficiently, ensuring accurate predictions and reducing the chances of misdiagnosis. 
- ![image](https://github.com/user-attachments/assets/4cc16c7b-60d6-4199-a117-083412dbbbbc)
+![image](https://github.com/user-attachments/assets/405ad913-d332-4b17-b16e-d157a8b8c52f)
+
 
 
 
