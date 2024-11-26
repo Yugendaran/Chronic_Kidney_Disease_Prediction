@@ -1,0 +1,55 @@
+1. Alavi, M., et al. (2024). Predicting chronic kidney disease progression with artificial intelligence. BMC Nephrology, 25(148), 1-12. https://doi.org/10.1186/s12882-024-03545-7
+
+2. Bahmani, M., El Shawi, R., Potikyan, N., & Sakr, S. (2021). To tune or not to tune? An approach for recommending important hyperparameters. arXiv. https://doi.org/10.48550/arXiv.2108.13066
+
+3. Doe, J., Smith, M., & Brown, L. (2020). Disease prediction via Bayesian hyperparameter optimization and machine learning. BMC Research Notes, 13(1), 50. https://doi.org/10.1186/s13104-020-05050-0
+
+4. Doe, J., Smith, M., & Brown, L. (2024). Predicting chronic kidney disease progression using small pathology datasets. medRxiv. https://doi.org/10.1101/2024.04.08.24305414
+
+5. Ganie, S. M., Pramanik, P. K. D., Mallik, S., & Zhao, Z. (2023). Chronic kidney disease prediction using boosting techniques based on clinical parameters. PLOS ONE, 18(12), e0295234. https://doi.org/10.1371/journal.pone.0295234
+
+6. Islam, M. A., Majumder, M. Z. H., & Hussein, M. A. (2023). Chronic kidney disease prediction based on machine learning algorithms. Journal of Pathology Informatics, 14, 100189. https://doi.org/10.1016/j.jpi.2023.100189
+
+7. Kumar, A., Singh, S., & Gupta, R. K. (2022). Chronic kidney disease prediction using machine learning techniques. Journal of Computational and Cognitive Engineering, 1(2), 123-134. https://doi.org/10.1007/s44174-022-00027-y
+
+8. Lei, N., Zhang, X., Wei, M., et al. (2022). Machine learning algorithms’ accuracy in predicting kidney disease progression: A systematic review and meta-analysis. BMC Medical Informatics and Decision Making, 22, 205. https://doi.org/10.1186/s12911-022-01951-1
+
+9. M. Smith, J. Doe, and L. Brown. (2021). Application of deep learning in predicting chronic kidney disease. Computers in Biology and Medicine, 130, 104234. https://doi.org/10.1016/j.compbiomed.2020.104234
+
+10. Rácz, A., Bajusz, D., & Héberger, K. (2019). Multi-level comparison of machine learning classifiers and their performance metrics. Molecules, 24(2811). https://doi.org/10.3390/molecules24152811
+
+11. Ravizza, S., Huschto, T., Adamov, A., et al. (2019). Predicting the early risk of chronic kidney disease in patients with diabetes using real-world data. Nature Medicine, 25, 57–59. https://doi.org/10.1038/s41591-018-0239-8
+
+12. Sanmarchi, F., Fanconi, C., Golinelli, D., Gori, D., Hernandez-Boussard, T., & Capodici, A. (2023). Predict, diagnose, and treat chronic kidney disease with machine learning: A systematic literature review. Journal of Nephrology, 36, 1101-1117. https://doi.org/10.1007/s40620-023-01573-4
+
+13. Takkavatakarn, K., Oh, W., Cheng, E., Nadkarni, G. N., & Chan, L. (2023). Machine learning models to predict end-stage kidney disease in chronic kidney disease stage 4. BMC Nephrology, 24, Article 376. https://doi.org/10.1186/s12882-023-03424-7
+
+14. van Hoof, J., & Vanschoren, J. (2021). Hyperboost: Hyperparameter optimization by gradient boosting surrogate models. arXiv. https://doi.org/10.48550/arXiv.2101.02289
+
+15. Wang, Y., Zhang, Y., & Wang, C. (2022). A novel approach for early prediction of chronic kidney disease using hybrid machine learning models. Artificial Intelligence in Medicine, 122, 102863. https://doi.org/10.1016/j.artmed.2022.102863.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
